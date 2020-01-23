@@ -1,0 +1,15 @@
+{
+  "name": "",
+  "version": "0.0.1",
+  "description": "",
+  "main": "reveal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rafael Michels Motta",
+  "license": "MIT",
+  "dependencies": {
+    "reveal-md": "3.2.1",
+    "viz.js": "2.1.2"
+  }
+}

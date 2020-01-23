@@ -1,0 +1,15 @@
+/*.reveal h1, */
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5 {
+  text-transform: none;
+}
+
+.personio-slide .slide-background-content::after {
+  background-color: #fff;
+}
+
+svg text {
+  font-family: "Source Sans Pro", Helvetica, sans-serif;
+}

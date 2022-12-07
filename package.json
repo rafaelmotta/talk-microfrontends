@@ -9,7 +9,7 @@
   "author": "Rafael Michels Motta",
   "license": "MIT",
   "dependencies": {
-    "reveal-md": "3.2.1",
+    "reveal-md": "5.4.0",
     "viz.js": "2.1.2"
   }
 }
